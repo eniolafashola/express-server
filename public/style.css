@@ -1,0 +1,13 @@
+body {
+    padding: 50px;
+    background-color: aqua;
+    font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a{
+    color: rgb(101, 166, 239);
+}
+
+img {
+    width: 30%;
+}
